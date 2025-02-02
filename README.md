@@ -1,1 +1,6 @@
-# IR-Project
+# IR-Project(Information Retrieval)
+[IR Project.pdf](https://github.com/user-attachments/files/18633224/IR.Project.pdf)
+[D1.txt](https://github.com/user-attachments/files/18633228/D1.txt)
+[D2.txt](https://github.com/user-attachments/files/18633227/D2.txt)
+[D3.txt](https://github.com/user-attachments/files/18633226/D3.txt)
+[D4.txt](https://github.com/user-attachments/files/18633225/D4.txt)
